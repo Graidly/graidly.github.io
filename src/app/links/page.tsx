@@ -3,7 +3,7 @@ import { ExternalLink } from "lucide-react"
 
 export default function Links() {
     const links = [
-        { title: "Project Repository", url: "https://github.com/openTa/project", description: "GitHub repository for the OpenTa project" },
+        { title: "Project Repository", url: "https://github.com/LecturaLM/LecturaLM", description: "GitHub repository for the LecturaLM project" },
         { title: "Team Communication", url: "https://slack.com", description: "Slack workspace for team discussions" },
         { title: "Project Management", url: "https://trello.com", description: "Trello board for task management" },
         { title: "Design Assets", url: "https://figma.com", description: "Figma project containing UI/UX designs" },

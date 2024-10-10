@@ -3,7 +3,7 @@ import './globals.css'
 import React from "react";
 
 export const metadata = {
-  title: 'OpenTa',
+  title: 'LecturaLM',
   description: 'Capstone project for revolutionizing TA management',
 }
 
