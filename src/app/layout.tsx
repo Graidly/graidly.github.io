@@ -1,4 +1,4 @@
-import Layout from '../../../capstone-website/src/components/layout/layout'
+import Layout from '../../../lecturalm.github.io/src/components/layout/layout'
 import './globals.css'
 import React from "react";
 
