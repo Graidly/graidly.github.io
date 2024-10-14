@@ -3,10 +3,10 @@ import Link from "next/link"
 
 export default function Documentation() {
     const docs = [
-        { title: "Project Overview", description: "High-level description of the LecturaLM project", link: "/docs/overview" },
+        { title: "Project Overview", description: "High-level description of the Graidly project", link: "/docs/overview" },
         { title: "System Architecture", description: "Detailed system architecture and component interactions", link: "/docs/architecture" },
         { title: "API Documentation", description: "API endpoints, request/response formats, and usage examples", link: "/docs/api" },
-        { title: "User Guide", description: "Step-by-step guide for using the LecturaLM system", link: "/docs/user-guide" },
+        { title: "User Guide", description: "Step-by-step guide for using the Graidly system", link: "/docs/user-guide" },
     ]
 
     return (

@@ -1,9 +1,9 @@
-import Layout from '../../../lecturalm.github.io/src/components/layout/layout'
+import Layout from '../../../graidly.github.io/src/components/layout/layout'
 import './globals.css'
 import React from "react";
 
 export const metadata = {
-  title: 'LecturaLM',
+  title: 'Graidly',
   description: 'Capstone project for revolutionizing TA management',
 }
 
