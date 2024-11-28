@@ -3,10 +3,10 @@ import { ExternalLink } from "lucide-react"
 
 export default function Links() {
     const links = [
-        { title: "Project Repository", url: "https://github.com/Graidly/graidly", description: "GitHub repository for the Graidly project" },
-        { title: "Team Communication", url: "https://slack.com", description: "Slack workspace for team discussions" },
-        { title: "Project Management", url: "https://trello.com", description: "Trello board for task management" },
+        { title: "Project Repository", url: "https://github.com/Graidly/graidly", description: "GitHub repository for the project" },
+        { title: "Project Management", url: "https://www.notion.so/Graidly-Project-Management-14a961e0a5b58025b7cfefafebabbd3c", description: "Notion workspace for project management" },
         { title: "Design Assets", url: "https://figma.com", description: "Figma project containing UI/UX designs" },
+
     ]
 
     return (
