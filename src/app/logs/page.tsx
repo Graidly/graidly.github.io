@@ -3,7 +3,7 @@ import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 export default function Logs() {
     const logs = [
         {
-            date: "2023-09-30",
+            date: "2024-09-30",
             author: "Anıl Hoca 1",
             entries: [
                 "Innovation expert konusu konuşuldu",
@@ -27,7 +27,7 @@ export default function Logs() {
             ],
         },
         // {
-        //     date: "2023-10-01",
+        //     date: "2024-10-01",
         //     author: "Grup Görüşmesi 1",
         //     entries: [
         //         "- Innovation Expertlere (Mustafa Sakalsız ve Mustafa Demir) mail atıldı",
@@ -39,7 +39,7 @@ export default function Logs() {
         //     ],
         // },
         {
-            date: "2023-10-25",
+            date: "2024-10-25",
             author: "Anıl Hoca 2",
             entries: [
                 "- Anıl Hoca’yla aşağıdaki konuyla ilgili görüştük ve danışmanlığına başvurduk:",
@@ -51,7 +51,7 @@ export default function Logs() {
             ],
         },
         {
-            date: "2023-10-24",
+            date: "2024-10-24",
             author: "Haluk Altunel Innovation Expert Meeting Log",
             entries: [
                 "- Hocaya sunum yapıldı.",
@@ -62,6 +62,18 @@ export default function Logs() {
                 "  - Senkron LLM kullanımı."
             ],
         },
+        {
+             date: "2025-30-01",
+             author: "Grup Görüşmesi 2",
+             entries: [
+                 "- Yeni dönemdeki zamanlama akışı yapıldır",
+                 "- Sprintlerin uzunluğuna ve haftalık yüz yüze toplantılarına günlerine karar verildi",
+                 "- BackEnd microservice mimarisinden monolitik mimariye dönme kararı alındı ve uygulandı",
+                 "- Yeni çıkan DeepSeek ile ilgili araştırma yapılmasına karar verildi.",
+                 "- Sprint taskları dağıtıldı.",
+                 "- OCR için araştırılmalara başlanıldı.",
+             ],
+         },
     ];
 
     return (
